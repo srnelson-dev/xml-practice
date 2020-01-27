@@ -1,0 +1,39 @@
+</XML>
+    <movies> 
+        <feature>
+            <title>1917</title>
+            <rating>PG-13></rating>
+            <stars>8.5</stars>
+            <cast>
+                <actor>
+                    <name>
+                        <firstName>Dean-Charles</firstName>
+                        <lastName>Chapman</lastName>
+                    </name>
+                    <role>Lance Corporal Blake</role>
+                </actor>
+                <actor>
+                    <name>
+                        <firstName>George</firstName>
+                        <lastName>MacKay</lastName>
+                    </name>
+                    <role>Lance Corporal Schofield</role>
+                </actor>
+            </cast>
+        </feature>
+        <feature>
+            <title>Joker</title>
+            <rating>R</rating>
+            <stars>8.6</stars>
+            <cast>
+                <actor>
+                    <name>
+                        <firstName>Joaquin</firstName>
+                        <lastName>Phoenix</lastName>
+                    </name>
+                    <role>Arther Fleck</role>
+                </actor>
+            </cast>
+        </feature>      
+    </movies>
+</XML>
